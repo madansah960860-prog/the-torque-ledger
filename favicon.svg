@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="The Torque Ledger">
+  <rect width="64" height="64" rx="10" fill="#1E3B2F"/>
+  <circle cx="32" cy="32" r="16" fill="none" stroke="#B08D57" stroke-width="4"/>
+  <path d="M32 16v8M32 40v8M16 32h8M40 32h8" stroke="#B08D57" stroke-width="4"/>
+  <circle cx="32" cy="32" r="5" fill="#F2EEE3"/>
+</svg>
